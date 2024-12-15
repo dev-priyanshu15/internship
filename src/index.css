@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-link {
+    @apply text-gray-600 hover:text-purple-600 px-3 py-2 rounded-md text-sm font-medium transition-colors;
+  }
+
+  .mobile-nav-link {
+    @apply block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-purple-600 hover:bg-gray-50;
+  }
+
+  .btn-primary {
+    @apply px-4 py-2 bg-purple-600 text-white rounded-md hover:bg-purple-700 transition-colors;
+  }
+
+  .btn-secondary {
+    @apply px-4 py-2 border border-purple-600 text-purple-600 rounded-md hover:bg-purple-50 transition-colors;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
