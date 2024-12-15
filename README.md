@@ -76,7 +76,7 @@ npm run dev
 
 # Start backend
 cd server
-npm run dev
+npm run server
 ```
 
 ## Contributing
