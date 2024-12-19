@@ -1,6 +1,14 @@
-# E-Commerce Platform
+# Saifashionzone by Raiba
 
-A modern e-commerce platform built with React, TypeScript, and Node.js, featuring both customer-facing and admin interfaces.
+![Main Page](https://i.postimg.cc/TPCXVfQr/Screenshot-2024-12-19-214949.png)
+
+
+
+---
+
+Saifashionzone by Raiba is a modern e-commerce platform designed to redefine your shopping experience. Built with React, TypeScript, and Node.js, it offers both customer-facing and admin interfaces for a seamless and efficient journey.
+
+
 
 ## Features
 
@@ -21,6 +29,7 @@ A modern e-commerce platform built with React, TypeScript, and Node.js, featurin
 - Product management
 - Inventory tracking
 - Sales statistics
+
 
 ## Tech Stack
 
@@ -79,6 +88,13 @@ cd server
 npm run server
 ```
 
+
+## Deployment
+
+The application is configured for deployment on Vercel with the included `vercel.json` configuration file.
+
+
+
 ## Contributing
 
 1. Fork the repository
@@ -87,6 +103,83 @@ npm run server
 4. Push to the branch
 5. Create a Pull Request
 
+
+## **Screenshots**
+
+### 1.
+
+![Main Page](https://i.postimg.cc/TPCXVfQr/Screenshot-2024-12-19-214949.png)
+
+
+
+---
+
+### 2.   
+
+![Detailed Article](https://i.postimg.cc/rm5WzZqR/Screenshot-2024-12-19-215315.png)
+
+
+
+
+---
+
+### 3.   
+
+![Search Results](https://i.postimg.cc/j5NxbGtm/Screenshot-2024-12-19-215500.png)
+ 
+
+
+---
+
+### 4.  
+
+![Bookmark Page](https://i.postimg.cc/R0P6h36f/Screenshot-2024-12-19-215626.png)
+---
+
+### 5.  
+
+![Bookmark Page](https://i.postimg.cc/rsT70ptG/Screenshot-2024-12-19-215828.png)
+
+---
+
+### 6.  
+
+![Bookmark Page](https://i.postimg.cc/QNyhYQ5v/Screenshot-2024-12-19-215947.png)
+
+---
+
+### 7.  
+
+![Bookmark Page](https://i.postimg.cc/yNcMW38d/Screenshot-2024-12-19-220131.png)
+
+---
+
+### 8.  
+
+![Bookmark Page](https://i.postimg.cc/CLvB6zYz/Screenshot-2024-12-19-220254.png)
+
+---
+
+### 9.  
+
+![Bookmark Page](https://i.postimg.cc/rsDXVn06/Screenshot-2024-12-19-220354.png)
+---
+
+### 10.  
+
+![Bookmark Page](https://i.postimg.cc/dQ2SdKFW/Screenshot-2024-12-19-220453.png)
+
+
+
+ 
+
+
+---
+
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is open source and available under the MIT License.
+
+## Authors
+
+- [@Priyanshu Singh](https://www.github.com/dev-priyanshu15)
